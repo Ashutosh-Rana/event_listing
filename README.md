@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* The user must do google sign in
+* Then on home screen, they need to select categories.
+* On Selecting any category, the user will be navigated to that particular category events where they can see all events of that category.
+* The user can also see the events in list view and grid view by selecting that particular icon on events screen.
+* On selecting any particular event, the user will be redirected to web view inside flutter app.
